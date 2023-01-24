@@ -6,7 +6,7 @@ CREATE TABLE top10k (
 	"Days" INT NOT NULL,
 	"Top Ten (xTimes)" INT NOT NULL,
 	"Peak Position" INT NOT NULL,
-	"Peak Position (xTimes)" VARCHAR(100) NOT NULL,
+	"Peak Position (xTimes)" INT NOT NULL,
 	"Peak Streams" INT NOT NULL,
 	"Total Streams" INT NOT NULL,
 	PRIMARY KEY ("Position")

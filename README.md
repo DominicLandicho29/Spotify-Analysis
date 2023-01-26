@@ -25,17 +25,17 @@ The second dataset is a series of combined data representing several attributes 
 ## Group 6
 
 ### Members
-***Dominic Landicho***
+* ***Dominic Landicho***
 Cleaned and prepared Top 10,000 Streamed Spotify Songs dataset, and visualizations of dataset.
-***Deborah Nobles***
+* ***Deborah Nobles***
 Cleaned Spotify Popularity API dataset, dataset topic research, and raw data research.
-***Jasmine Koenes***
+* ***Jasmine Koenes***
 Read Me organization, dataset topic research, and raw data research.
-***Kristen Chang***
+* ***Kristen Chang***
 Readme notes, Google document/presentation slides, dataset topic research, and raw data research.
-***Meri Galstyan***
+* ***Meri Galstyan***
 Cleaned and prepared the second dataset "tracks". Merged all group datasets. dataset topic research, and raw data research.
-***Mitzy Garcia***
+* ***Mitzy Garcia***
 Dataset topic research, and raw data research.
 
 ## More points to elaborate on

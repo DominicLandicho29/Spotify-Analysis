@@ -29,12 +29,12 @@ The second dataset is a series of combined data representing several attributes 
 
 ### Members
 
-***Meri Galstyan***
-***Mitzy Garcia***
-***Kristen Chang***
-***Dominic Landicho***
-***Jasmine Marie Koenes***
-***Deborah Nobles***
+*Meri Galstyan
+*Mitzy Garcia
+*Kristen Chang
+*Dominic Landicho
+*Jasmine Marie Koenes
+*Deborah Nobles***
 
 
 

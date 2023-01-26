@@ -21,6 +21,8 @@ The second dataset is a series of combined data representing several attributes 
 
 <img width="757" alt="Screenshot 2023-01-25 at 7 17 13 PM" src="https://user-images.githubusercontent.com/111609994/214751288-9da9cb0d-aa6b-4f69-bed6-1084bf79b1ed.png">
 
+<img width="757" src="https://raw.githubusercontent.com/DominicLandicho29/Spotify-Analysis/Mitzy/ERD%20Spotify%20Analysis.png">
+
 
 ## Group 6
 

@@ -38,7 +38,7 @@ Cleaned and prepared the second dataset "tracks". Merged all group datasets. dat
 * ***Mitzy Garcia***
 Dataset topic research, and raw data research.
 ### Communication
-***The team uses slack to communicate as well as zoom meeting outside of classtime to communicate and complete assigned deliverables***
+***The team uses slack to communicate as well as zoom meetings outside of classtime to communicate and complete assigned deliverables***
 
 ## More points to elaborate on
 * Data Analysis

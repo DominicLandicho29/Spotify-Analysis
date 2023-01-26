@@ -14,7 +14,7 @@ What makes a song a top hit on Spotify? With this project, our team aims to high
 
 ## Datasets
 
-In total of two datasets will be used for this analysis. Our data includes information about the song such as song name, song artist, and genre. Also included are popularity measures such as position/spotify ranking and number of streams as well as song attributes such as energy, tempo, danceability and etc.
+In total of two datasets will be used for this analysis. Our data includes information about the songs such as song name, song artist, and genre. Also included are popularity measures such as position/spotify ranking and number of streams as well as song attributes such as energy, tempo, danceability and etc.
 
 The first dataset includes 10,000 Top Streamed Songs on Spotify and has the following variables: 
 

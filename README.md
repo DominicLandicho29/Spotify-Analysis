@@ -12,8 +12,17 @@ What makes a song a top hit on Spotify? With this project, our team aims to high
 * What beats per minute range appears at the top of the chats?
 * Which artists are reoccuring on chart?
 
-## Description of Data
-Our data includes information about the song such as song name, song artist, and genre. Also included are popularity measures such as position/spotify ranking and number of streams as well as song attributes such as energy, tempo, danceability, loudness, valence, acousticness.
+## Datasets
+
+In total of two datasets will be used for this analysis. Our data includes information about the song such as song name, song artist, and genre. Also included are popularity measures such as position/spotify ranking and number of streams as well as song attributes such as energy, tempo, danceability and etc.
+
+The first dataset includes 10,000 Top Streamed Songs on Spotify and has the following variables: 
+
+<img width="710" alt="Screenshot 2023-01-25 at 7 15 24 PM" src="https://user-images.githubusercontent.com/111609994/214751106-839b6dc6-7b2a-4296-b9f1-0e0d23b4af45.png">
+
+The second dataset is a series of combined data representing several attributes of the most popular songs. The dataset includes the following variables:
+
+<img width="757" alt="Screenshot 2023-01-25 at 7 17 13 PM" src="https://user-images.githubusercontent.com/111609994/214751288-9da9cb0d-aa6b-4f69-bed6-1084bf79b1ed.png">
 
 
 ## More points to elaborate on

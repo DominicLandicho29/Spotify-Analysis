@@ -43,4 +43,4 @@ Dataset topic research, and raw data research.
 * Database
 * Machine Learning Model
 * Dashboard/Visualization
-*Presentation Link: https://docs.google.com/presentation/d/1awlbstZc7BICKXJ9cIFLAb8Ks4XWfkX1AWZDsV-yoDQ/edit?usp=sharing  
+* Presentation Link: https://docs.google.com/presentation/d/1awlbstZc7BICKXJ9cIFLAb8Ks4XWfkX1AWZDsV-yoDQ/edit?usp=sharing  

@@ -1,6 +1,6 @@
 # Analysis of Song Trends within Spotify #
 ## Selected Topic - Spotify Top Song Trends
-What makes a song a top hit on Spotify? With this project, our team aims to highlight trends of top charting songs and determine if song popularity can be reliably predicted based on song attributes such as: beats per minute, genre, key, tempo, speechiness, and other features. (Reasoning for selection) We would like to look at song popularity broken down by featured artists, top recurring artists and popular genres.
+What makes a song a top hit on Spotify? With this project, our team aims to highlight trends of top charting songs and determine if song popularity can be reliably predicted based on song attributes such as: beats per minute, genre, key, tempo, speechiness, and other features. 
 
 ## Questions We Want to Answer within Our Research
 * What makes a song popular? 

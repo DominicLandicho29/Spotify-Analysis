@@ -26,7 +26,7 @@ The second dataset is a series of combined data representing several attributes 
 
 ### Members
 * ***Dominic Landicho***
-Cleaned and prepared Top 10,000 Streamed Spotify Songs dataset, and visualizations of dataset.
+Cleaned and prepared Top 10,000 Streamed Spotify Songs dataset, and uploaded dataset to SQL database.
 * ***Deborah Nobles***
 Cleaned Spotify Popularity API dataset, dataset topic research, and raw data research.
 * ***Jasmine Koenes***

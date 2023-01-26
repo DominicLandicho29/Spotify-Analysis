@@ -29,12 +29,9 @@ The second dataset is a series of combined data representing several attributes 
 
 ### Members
 
-* Meri Galstyan
-* Mitzy Garcia
-* Kristen Chang
-* Dominic Landicho
-* Jasmine Marie Koenes
-* Deborah Nobles
+***Meri Galstyan***
+
+Cleaned and prepared the first part of the second dataset. Merged the datasets.
 
 
 ## More points to elaborate on

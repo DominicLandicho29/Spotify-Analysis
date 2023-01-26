@@ -24,3 +24,22 @@ The duration variable was changed to seconds from miliseconds. Regex was used to
 
 <img width="815" alt="Screenshot 2023-01-25 at 7 44 31 PM" src="https://user-images.githubusercontent.com/111609994/214754730-60bfd7aa-97f0-4eee-a818-c9f8d68b5776.png">
 
+
+**Deborah worked on the second part of the dataset***
+
+Both datasets were read into dataframes:
+
+<img width="522" alt="Screenshot 2023-01-25 at 7 51 54 PM" src="https://user-images.githubusercontent.com/111609994/214755196-51af383a-12f2-4912-9352-37da21eeff36.png">
+
+The dataframes were  sorted and the indexes were reset. The **release_date*** was dropped after comparing the datasets:
+
+<img width="564" alt="Screenshot 2023-01-25 at 7 52 03 PM" src="https://user-images.githubusercontent.com/111609994/214755335-b521a2b4-722c-4875-8ae8-0a5632e03ef3.png">
+
+<img width="543" alt="Screenshot 2023-01-25 at 7 52 08 PM" src="https://user-images.githubusercontent.com/111609994/214755351-1ada37f4-0fff-4f56-b201-92f127cc27b7.png">
+
+The datasets, then, were merged. The null values were checked and the duplicates were removed. 
+
+<img width="693" alt="Screenshot 2023-01-25 at 7 54 52 PM" src="https://user-images.githubusercontent.com/111609994/214755456-3248cc1e-6a2a-48ef-8657-9709dbf7c680.png">
+
+
+

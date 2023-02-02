@@ -37,15 +37,15 @@ Our Machine Learning Model file is located in Meri's branch, RandomForestClassif
 
 ## Random Forest Classifier
 
-Random Forest Classifier was used to predict the popularity of the songs based on several features. The first step was creating a histogram bar chart of the elements and setting "is_popular" column with popularity above 40 scores, the target sets were set:
+Random Forest Classifier was used to predict the popularity of the songs based on several features. The first step was creating a histogram bar chart of the elements and setting "is_popular" column with popularity above 40 scores, the target sets were assigned:
 
 <img width="802" alt="Screenshot 2023-02-01 at 9 36 47 PM" src="https://user-images.githubusercontent.com/111609994/216240963-a3c3520a-3583-499a-b2ac-cf429f0f5dc6.png">
 
-The ***train_test_split*** function was called, the training data was scaled, ***RandomForestRegressor()*** was created:
+The ***train_test_split*** function was called, the training data was scaled, ***RandomForestClassifier()*** was created:
 
 <img width="719" alt="Screenshot 2023-02-01 at 9 38 42 PM" src="https://user-images.githubusercontent.com/111609994/216241260-3953c047-1bc1-4b1e-835d-cd169d769d4c.png">
 
-After carefully fitting the model and predicting the accuracy score of **0.762** was retrieved. The Confusion Matrix and Classification Report was displayed:
+After carefully fitting the model and predicting, the accuracy score resulted in **0.762**.  The Confusion Matrix and Classification Report were displayed:
 
 <img width="726" alt="Screenshot 2023-02-01 at 9 42 24 PM" src="https://user-images.githubusercontent.com/111609994/216241597-49a5abd8-e9e6-4cd6-9d40-44e76cd42241.png">
 

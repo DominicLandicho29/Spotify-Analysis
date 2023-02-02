@@ -31,11 +31,27 @@ Our Machine Learning Model file is located in Meri's branch, RandomForestClassif
 * The song will be more popular if it is loud.
 * If the song is more energetic and loud, it will be more popular.
 # Regressions
-*Linear regression:energy v. loudeness
+*Linear regression:energy v. popularity
 ![image](https://user-images.githubusercontent.com/111592990/216239893-40d2229c-63d2-4d4b-837a-f38441e96c29.png)
 
-*strong negative correlation: accousticness and popularity , as acousticness increases popularity decreases
-![image](https://user-images.githubusercontent.com/111592990/216240732-f6827fb7-a27d-4443-b04a-0b799a03daed.png)
+
+## Random Forest Classifier
+
+Random Forest Classifier was used to predict the popularity of the songs based on several features. The first step was creating a histogram bar chart of the elements and setting "is_popular" column with popularity above 40 scores, the target sets were set:
+
+<img width="802" alt="Screenshot 2023-02-01 at 9 36 47 PM" src="https://user-images.githubusercontent.com/111609994/216240963-a3c3520a-3583-499a-b2ac-cf429f0f5dc6.png">
+
+The ***train_test_split*** function was called, the training data was scaled, ***RandomForestRegressor()*** was created:
+
+<img width="719" alt="Screenshot 2023-02-01 at 9 38 42 PM" src="https://user-images.githubusercontent.com/111609994/216241260-3953c047-1bc1-4b1e-835d-cd169d769d4c.png">
+
+After carefully fitting the model and predicting the accuracy score of **0.762** was retrieved. The Confusion Matrix and Classification Report was displayed:
+
+<img width="726" alt="Screenshot 2023-02-01 at 9 42 24 PM" src="https://user-images.githubusercontent.com/111609994/216241597-49a5abd8-e9e6-4cd6-9d40-44e76cd42241.png">
+
+Importances of the features were calculated and displayed:
+
+<img width="792" alt="Screenshot 2023-02-01 at 9 42 49 PM" src="https://user-images.githubusercontent.com/111609994/216241680-50e7fefe-7e9e-46e6-8c51-0a2c2435b0d9.png">
 
 
 

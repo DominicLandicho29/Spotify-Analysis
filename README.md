@@ -26,7 +26,7 @@ The second dataset is a series of combined data representing several attributes 
 ## Machine Learning Model
 We are using a Supervised Classification Machine Learning Model. We decided on the RandomForestClassifier model to process our predictions. 
 Our Machine Learning Model file is located in Meri's branch, RandomForestClassifier.ipynb and Regressions.ipynb.
-# Predictions
+**Predictions**
 * If the song is more acoustic, it will not be as popular.
 * The song will be more popular if it is loud.
 * If the song is more energetic and loud, it will be more popular.

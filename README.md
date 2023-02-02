@@ -30,6 +30,11 @@ Our Machine Learning Model file is located in Meri's branch, RandomForestClassif
 * If the song is more acoustic, it will not be as popular.
 * The song will be more popular if it is loud.
 * If the song is more energetic and loud, it will be more popular.
+# Regressions
+*Linear regression:energy v. popularity
+![image](https://user-images.githubusercontent.com/111592990/216239893-40d2229c-63d2-4d4b-837a-f38441e96c29.png)
+
+
 
 ## Group 6
 

@@ -34,7 +34,7 @@ Our Machine Learning Model file is located in Meri's branch, RandomForestClassif
 *Linear regression:energy v. loudeness
 ![image](https://user-images.githubusercontent.com/111592990/216239893-40d2229c-63d2-4d4b-837a-f38441e96c29.png)
 
-*strong negative correlation: accousticness and popularity
+*strong negative correlation: accousticness and popularity , as acousticness increases popularity decreases
 ![image](https://user-images.githubusercontent.com/111592990/216240732-f6827fb7-a27d-4443-b04a-0b799a03daed.png)
 
 

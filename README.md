@@ -23,28 +23,33 @@ The second dataset is a series of combined data representing several attributes 
 
 <img width="757" src="https://raw.githubusercontent.com/DominicLandicho29/Spotify-Analysis/Mitzy/ERD%20Spotify%20Analysis.png">
 
+## Machine Learning Model
+We are using a Supervised Classification Machine Learning Model. We decided on the RandomForestClassifier model to process our predictions. 
+Our Machine Learning Model file is located in Meri's branch, RandomForestClassifier.ipynb and Regressions.ipynb.
+* **Predictions** *
+If the song is more acoustic, it will not be as popular.
+The song will be more popular if it is loud.
+If the song is more energetic and loud, it will be more popular.
 
 ## Group 6
 
 ### Members
 * ***Dominic Landicho***
-Cleaned and prepared Top 10,000 Streamed Spotify Songs dataset, and uploaded dataset to SQL database.
+Cleaned and prepared Top 10,000 Streamed Spotify Songs dataset, and uploaded dataset to SQL database. Worked on dashboard and collectively decided on a machine learning model to use.
 * ***Deborah Nobles***
-Cleaned Spotify Popularity API dataset, dataset topic research, and raw data research.
+Cleaned Spotify Popularity API dataset, dataset topic research, and raw data research. Re-did data so we could create a machine learning and collectively decided on a machine learning model to use.
 * ***Jasmine Koenes***
-Read Me organization, dataset topic research, and raw data research.
+Read Me organization, dataset topic research, and raw data research. Collectively helped the group decide on a machine learning model to use.
 * ***Kristen Chang***
-Readme notes, Google document/presentation slides, dataset topic research, and raw data research.
+Readme notes, Google document/presentation slides, dataset topic research, and raw data research. Collectively helped the group decide on a machine learning model.
 * ***Meri Galstyan***
-Cleaned and prepared the second dataset "tracks". Merged all group datasets. dataset topic research, and raw data research.
+Cleaned and prepared the second dataset "tracks". Merged all group datasets. dataset topic research, and raw data research. Created the machine learning model file and collectively decided on a machine learning model.
 * ***Mitzy Garcia***
-Dataset topic research, and raw data research.
+Dataset topic research, and raw data research. Began working on drafting our presentation. Collectively helped the group decide on a machine learning model.
 ### Communication
 ***The team uses slack to communicate as well as zoom meetings outside of classtime to communicate and complete assigned deliverables***
 
 ## More points to elaborate on
 * Data Analysis
-* Database
-* Machine Learning Model
 * Dashboard/Visualization
 * Presentation Link: https://docs.google.com/presentation/d/1awlbstZc7BICKXJ9cIFLAb8Ks4XWfkX1AWZDsV-yoDQ/edit?usp=sharing  

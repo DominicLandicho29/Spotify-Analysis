@@ -1,11 +1,10 @@
-# Analysis of Song Trends within Spotify #
+# Spotify Song Analysis #
 ## Selected Topic - Spotify Top Song Trends
 What makes a song a top hit on Spotify? In this analysis, our team aims to highlight trends in popular songs and determine if various song attributes such as: beats per minute, key, tempo, and can reliably predict a song's popularity.
 
 ## Questions We Want to Answer within Our Research
 * What makes a song popular? 
-* What attributes (i.e. beats per minute, genre, key, tempo, danceability, etc.) can predict a song or artist's popularity?
-* What beats per minute range appears at the top of the chats?
+* Can various song attributes such as tempo, danceability, and key predict a song's popularity? If so, which variables have the lowest/highest impact on a song's popularity? 
 
 ## Datasets
 
@@ -51,7 +50,9 @@ Importances of the features were calculated and displayed:
 
 <img width="792" alt="Screenshot 2023-02-01 at 9 42 49 PM" src="https://user-images.githubusercontent.com/111609994/216241680-50e7fefe-7e9e-46e6-8c51-0a2c2435b0d9.png">
 
-
+## Tableau Dashboard
+* Dashboard Link: https://public.tableau.com/app/profile/kc10/viz/SpotifySongTrends/SpotifySongTrends
+<img width="792" alt="Screenshot 2023-02-01 at 9 42 49 PM" src="https://user-images.githubusercontent.com/111609994/216241680-50e7fefe-7e9e-46e6-8c51-0a2c2435b0d9.png">
 
 ## Group 6
 
@@ -59,19 +60,16 @@ Importances of the features were calculated and displayed:
 * ***Dominic Landicho***
 Cleaned and prepared Top 10,000 Streamed Spotify Songs dataset, and uploaded dataset to SQL database. Worked on dashboard and collectively decided on a machine learning model to use.
 * ***Deborah Nobles***
-Cleaned Spotify Popularity API dataset, dataset topic research, and raw data research. Re-did data so we could create a machine learning and collectively decided on a machine learning model to use.
+Cleaned Spotify Popularity API dataset, dataset topic research, and raw data research. Re-did data so we could create a machine learning and collectively decided on a machine learning model to use. Tableau Dashboard.
 * ***Jasmine Koenes***
 Read Me organization, dataset topic research, and raw data research. Collectively helped the group decide on a machine learning model to use.
 * ***Kristen Chang***
-Readme notes, Google document/presentation slides, dataset topic research, and raw data research. Collectively helped the group decide on a machine learning model.
+Readme notes, Google document/presentation slides, dataset topic research, and raw data research. Collectively helped the group decide on a machine learning model. Tableau Dashboard.
 * ***Meri Galstyan***
 Cleaned and prepared the second dataset "tracks". Merged all group datasets. dataset topic research, and raw data research. Created the machine learning model file and collectively decided on a machine learning model.
 * ***Mitzy Garcia***
 Dataset topic research, and raw data research. Began working on drafting our presentation. Collectively helped the group decide on a machine learning model.
-### Communication
-***The team uses slack to communicate as well as zoom meetings outside of classtime to communicate and complete assigned deliverables***
 
-## More points to elaborate on
-* Data Analysis
-* Dashboard/Visualization
-* Presentation Link: https://docs.google.com/presentation/d/1awlbstZc7BICKXJ9cIFLAb8Ks4XWfkX1AWZDsV-yoDQ/edit?usp=sharing  
+* Presentation Link: https://docs.google.com/presentation/d/1awlbstZc7BICKXJ9cIFLAb8Ks4XWfkX1AWZDsV-yoDQ/edit?usp=sharing 
+
+

@@ -1,13 +1,12 @@
 # Spotify Song Analysis #
-## Selected Topic - Spotify Top Song Trends
+## Topic - Spotify Top Song Trends
 What makes a song a top hit on Spotify? In this analysis, our team aims to highlight trends in popular songs and determine if various song attributes such as: beats per minute, key, tempo, and can reliably predict a song's popularity.
 
-## Questions We Want to Answer within Our Research
+## Question
 * What makes a song popular? 
 * Can various song attributes such as tempo, danceability, and key predict a song's popularity? If so, which variables have the lowest/highest impact on a song's popularity? 
 
 ## Datasets
-
 In total of two datasets will be used for this analysis. Our data includes information about the songs such as song name, song artist, and genre. Also included are popularity measures such as position/spotify ranking and number of streams as well as song attributes such as energy, tempo, danceability and etc.
 
 The first dataset includes 10,000 Top Streamed Songs on Spotify and has the following variables: 
@@ -27,7 +26,7 @@ Our Machine Learning Model file is located in Meri's branch, RandomForestClassif
 * If the song is more acoustic, it will not be as popular.
 * The song will be more popular if it is loud.
 * If the song is more energetic and loud, it will be more popular.
-# Regressions
+## Regressions
 *Linear regression:energy v. popularity
 ![image](https://user-images.githubusercontent.com/111592990/216239893-40d2229c-63d2-4d4b-837a-f38441e96c29.png)
 
@@ -70,6 +69,6 @@ Cleaned and prepared the second dataset "tracks". Merged all group datasets. dat
 * ***Mitzy Garcia***
 Dataset topic research, and raw data research. Began working on drafting our presentation. Collectively helped the group decide on a machine learning model.
 
-* Presentation Link: https://docs.google.com/presentation/d/1awlbstZc7BICKXJ9cIFLAb8Ks4XWfkX1AWZDsV-yoDQ/edit?usp=sharing 
+* Presentation Link: 
 
 

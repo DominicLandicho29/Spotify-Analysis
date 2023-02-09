@@ -69,6 +69,6 @@ Cleaned and prepared the second dataset "tracks". Merged all group datasets. dat
 * ***Mitzy Garcia***
 Dataset topic research, and raw data research. Began working on drafting our presentation. Collectively helped the group decide on a machine learning model.
 
-* Presentation Link: https://www.canva.com/design/DAFZ9VWpoi4/sYIh3Vp84SSed1pVjwtLmw/edit?utm_content=DAFZ9VWpoi4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+* Presentation Link: 
 
 

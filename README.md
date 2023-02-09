@@ -52,7 +52,7 @@ Importances of the features were calculated and displayed:
 
 ## Tableau Dashboard
 * Dashboard Link: https://public.tableau.com/app/profile/kc10/viz/SpotifySongTrends/SpotifySongTrends
-<img width="792" alt="Screenshot 2023-02-01 at 9 42 49 PM" src="https://user-images.githubusercontent.com/111609994/216241680-50e7fefe-7e9e-46e6-8c51-0a2c2435b0d9.png">
+<img width="792" alt="SpotifySongTrendsDashboard.png" src="https://github.com/DominicLandicho29/Spotify-Analysis/blob/Kristen/SpotifySongTrendsDashboard.png">
 
 ## Group 6
 
